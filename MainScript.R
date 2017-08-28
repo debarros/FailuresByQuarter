@@ -1,6 +1,4 @@
 #MainScript.R
 
-library(openxlsx)
-
-
+source("functions.R")
 
